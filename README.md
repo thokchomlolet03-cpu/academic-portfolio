@@ -15,6 +15,7 @@ This portfolio is under development. It distinguishes professional experience, i
 | Technical work | [Projects](projects/README.md) |
 | Research | [Research](research/README.md) |
 | Contributions | [Contributions](contributions/README.md) |
+| Personal development | [Endurance running and German learning](personal-development/README.md) |
 | Graduate readiness | [Graduate preparation](graduate-preparation/README.md) |
 | Evidence and status | [Evidence register](EVIDENCE.md) |
 | Website | [Website preview source](docs/index.html) |
