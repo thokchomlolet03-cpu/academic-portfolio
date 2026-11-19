@@ -1,5 +1,5 @@
 # Graduate readiness
-[Portfolio home](../README.md)
+[Portfolio home](../README.md) · [Admissions progress](ADMISSIONS_STATUS.md) · [Agent instructions](../AGENTS.md)
 
 Target field: Management Information Systems / Information Systems. Long-term aim: turn professional experience and graduate study into useful research, resilient organizational systems and open learning resources.
 
