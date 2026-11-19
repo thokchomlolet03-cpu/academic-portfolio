@@ -17,4 +17,7 @@ Status meanings:
 | C01 | Learning resource curation | [Learning Hub](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/tree/main/learning-hub) | Public artifact |
 | G01 | MIS capstone | [Plan](https://github.com/thokchomlolet03-cpu/thokchomlolet03-cpu/tree/main/learning-hub/mis) | Planned |
 
+| D01 | Distance running event registrations (10K) | [Running record](personal-development/RUNNING.md); organizer confirmations reviewed privately | Registration verified; finishes unverified |
+| D02 | German independent learning activity | [German learning record](personal-development/GERMAN.md); platform weekly reports reviewed privately | Documented historical app activity; proficiency not certified |
+
 Future entry: ID, claim, scope/date, individual contribution, artifact URL/commit, verification method, result and limitations, status, review date. Review links and visibility before adding them to the public site.
