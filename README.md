@@ -14,7 +14,7 @@ This portfolio is under development. It distinguishes professional experience, i
 | Credentials | [Certifications](certifications/README.md) |
 | Technical work | [Projects](projects/README.md) |
 | Research | [Research](research/README.md) |
-| Contributions | [Contributions](contributions/README.md) |
+| Contributions and community engagement | [Contributions](contributions/README.md) · [Community service and volunteering](contributions/COMMUNITY_SERVICE.md) |
 | Personal development | [Endurance running and German learning](personal-development/README.md) |
 | Graduate readiness | [Graduate preparation](graduate-preparation/README.md) |
 | Evidence and status | [Evidence register](EVIDENCE.md) |
