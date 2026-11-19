@@ -19,4 +19,8 @@ Status meanings:
 | D01 | Distance running event registrations (10K) | [Running record](personal-development/RUNNING.md); organizer confirmations reviewed privately | Registration verified; finishes unverified |
 | D02 | German independent learning activity | [German learning record](personal-development/GERMAN.md); platform weekly reports reviewed privately | Documented historical app activity; proficiency not certified |
 
+| C02 | Historical charitable support for UNICEF India, initiated July 2023 | [Community engagement record](contributions/COMMUNITY_SERVICE.md); donor acknowledgements reviewed privately | Documented historical giving; current continuity not verified; not volunteer service |
+| C03 | UNICEF #ChangeTheGame campaign pledge, November 2023 | [Community engagement record](contributions/COMMUNITY_SERVICE.md); issuer certificate notification reviewed privately | Pledge documented; certificate not inspected; no service hours claimed |
+| C04 | Headstart (2017), Dubai Cares and UNV (2026) volunteer application/registration milestones | [Community engagement record](contributions/COMMUNITY_SERVICE.md); application and registration correspondence reviewed privately | Applications/registration documented; no selection or completed service verified |
+
 Future entry: ID, claim, scope/date, individual contribution, artifact URL/commit, verification method, result and limitations, status, review date. Review links and visibility before adding them to the public site.
